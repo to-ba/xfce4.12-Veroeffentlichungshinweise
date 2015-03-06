@@ -1,0 +1,114 @@
+Nach fast drei Jahren Arbeit freuen wir uns, Version 4.12 der
+Arbeitsumgebung Xfce zu veröffentlichen.
+
+Ganz eindeutig ist diese lange Dauer darauf zurückzuführen, dass Xfce
+4.10 schon so toll war. Aber wie alles andere auch brauchte Xfce etwas
+Auffrischung – und dafür waren die vielen neuen Mitwirkenden mit ihren
+Anmerkungen und Verbesserungen gut.
+
+Mit Xfce 4.12 haben wir uns vor allem um die Nutzbarkeit der
+Arbeitsfläche und des Fenstermanagers gekümmert. Wie schon früher folgt
+Xfce seinem stetigen Fortschritt ohne Rückschritte – genau so, wie es
+die Nutzer brauchten.
+
+Die größten Highlights von Xfce 4.12 sind:
+
+- Der Fenstermanager hat einen neuen Dialog für "Alt-Tab" erhalten, der
+Themes unterstützt, eine Vorschau bietet und einen weiteren
+Darstellungsmodus als Liste. Das Kacheln von Fenster wurde verbessert
+und einen neuen Zoom-Modus gibt es auch.
+
+- Die Xfce-Leiste kann sich auf intelligente Weise selbst verstecken,
+unterstützt GTK3-Plugins und hat zahlreiche aktualisierte Plugins zu
+bieten, die vor allem die Neuerungen von Xfce 4.10 jetzt voll nutzen.
+
+- Die Arbeitsfläche hat mehr Möglichkeiten für Wallpapers und kommt
+besser mit mehreren Anzeigen zurecht. Auch unterstützt sie jetzt
+Ordnerbilder und Symbole auf Ordnern.
+
+- Unsere Sitzungsverwaltung ist aktualisiert worden. Sie nutzt jetzt
+logind und upower und bietet damit Unterstützung für verschiedene
+Standby-Modi. Da auch die betriebssystemeigenen Mechanismen weiterhin
+unterstützt werden, bleibt die Sitzungsverwaltung portabel und
+nutzerfreundlich.
+
+- Um mehr Multi-Monitor-Unterstützung zu bieten, gibt es einen neuen
+Einstellungsdialog für die Anzeige und auch eine Möglichkeit zur
+Schnellverstellung.
+
+- Beim Einstellen von Icons und Themen hilft nun eine Vorschau.
+
+- Auch die Energieverwaltung wurde berücksichtigt: Ein neues
+Leistenplugin kann mittels logind oder upower sich um Battery,
+Laptopdeckel und Helligkeit kümmern.
+
+- Unser allseits geliebter Dateimanager Thunar hat Massen an unsäglich
+guten Verbesserungen erfahren: Tabs, zahlreiche
+Geschwindigkeitsverbesserungen, Tastenkürzel für benutzerdefinierte
+Aktionen, bessere Benennung von Dateikopien und Verknüpfungen, besseres
+Navigieren mit der Tastatur, verbesserte Wallpaper-Unterstützung,
+Lesezeichen, Eigenschaften von mehreren Dateien zusammenfassen, ... noch
+mehr zu sagen?
+
+- Die Xfce-eigene GTK3-Theme-Engine entfällt; Themen können einfach mit
+CSS beschrieben werden.
+
+- Aufgrund von GStreamer1.0 entfallen Xfce4-Mixer und Xfce4-Volumed.
+
+
+Xfce ist nur aufgrund seiner zahlreichen Goodies so, wie wir es kennen
+und lieben. Auch bei den Goodies ist viel passiert, vor allem wären da
+zu nennen:
+
+- Xfburn kann BluRays brennen.
+
+- Der Task-Manager wurde neu mit GTK3 aufgezogen.
+
+- Parole wurde an vielen Stellen überarbeitet und neue Features kamen
+hinzu, wie GTK3 und GStreamer1.0.
+
+- Mousepad wurde neu geschrieben, ebenso mit GTK3.
+
+- Das Werkzeug für Screenshots bietet Unterstützung für Imgur.com.
+
+- Mit Xfdashboard gibt es auch ein der Gnome-Shell ähnliches Dashboard.
+
+- Mit Whiskermenu bietet Xfce ein weiteres Menü an.
+
+- Das Hardwaremonitor-Plugin von Gnome 2 läuft auch unter Xfce.
+
+- Das Wetter-Plugin bietet viel mehr Informationen.
+
+- Das Eyes-Plugin macht die Darstellung jetzt von 3D-Koordinaten
+abhängig.
+
+- Der Netzwerkmonitor kommt mit UDEV-Namen für die
+Netzwerkschnittstellen zurecht.
+
+- Das Clipboard-Plugin zeugt auch QR-Codes an.
+
+- Das Plugin für CPU-Informationen versteht den Intel PState-Treiber und
+passt sich mit der Darstellung der Leiste an
+
+
+Wie immer kann Xfce 4.12 auf einer kleinen Online-Tour erkundet werden.
+
+Ein herzliches Dankeschön all jenen Mithelfern, Übersetzern und
+Packagern für eure Mühen, die diese Veröffentlichung überhaupt erst
+mölich machen. Wir würden auch gerne unseren fantastischen Nutzern und
+gelegentlichen Mithelfern mit ihren Fehlermeldungen, Hinweisen und
+Reperaturen danken. Wir gehen gerade alle Patches durch und werden sie
+in Xfce mit den nächsten Veröffentlichungen einbringen. Ferner möchten
+wir dnen vielen Leuten mit Spenden, die über Bounty Source hineinkamen,
+danken. Dies wird uns helfen, und gelgentlich live zu treffen und
+gemeinsam an Xfce auch zukünftig zu werken!
+
+Wir freuen uns immer über jeden Einzeln, der oder die gerne bei der
+Entwicklung von Xfce mitwirkt. Du kannst uns sowohl beim Testen helfen
+und Bugs melden, als auch mit Übersetzungen, Dokumentation, mit
+Anwenderfreundlichkeit mittels Packaging, mit Patches und mit neuen
+Vorschlägen helfen! In Kontakt kann man mit uns kommen auf dem
+IRC-Channel #xfce-dev sowie natürlich auf unserer Mailing-Liste.
+
+Original:http://www.xfce.org/about/news/?post=1425081600
+Übersetzung von Fabian Nowak
